@@ -13,6 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/welcome', function () {
-    return 'welcome';
+Route::get('/about', function () {
+    return '2341760160 Shabrina Qottrunnada';
 });
